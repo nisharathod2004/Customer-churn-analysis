@@ -17,7 +17,6 @@ This project analyzes customer churn data for a telecom company to identify key 
 
 ## Technologies Used
 - **Python** for data preprocessing and analysis.
-- **Tableau** for creating visualizations and dashboards.
 - **Pandas, Matplotlib, Seaborn** for EDA.
 
 ## Conclusion
