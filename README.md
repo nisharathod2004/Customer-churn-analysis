@@ -1,6 +1,6 @@
 # Telecome-Customer-Churn-Analysis
 
-## Project Overview  
+** Project Overview ** 
 This project analyzes customer churn data for a telecom company to identify key factors contributing to churn and provides actionable recommendations to improve retention. Using exploratory data analysis (EDA) techniques and visualizations, the project highlights trends and customer behaviors associated with higher churn rates.
 
 ## Key Findings
