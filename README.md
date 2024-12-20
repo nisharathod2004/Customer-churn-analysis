@@ -9,13 +9,15 @@ Contract Types: Month-to-month contracts have the highest churn rate (43%) compa
 Service Usage: Fiber-optic internet and streaming services correlate with elevated churn rates.
 Billing Preferences: Electronic billing and electronic check payments show higher churn rates.
 Tenure: New customers (tenure < 12 months) are at the highest risk of churning.
-Recommendations
+
+## Recommendations
 Customer Segmentation: Develop targeted retention strategies for high-risk groups, such as senior citizens and month-to-month contract holders.
 Incentivize Long-Term Contracts: Offer promotions to encourage month-to-month customers to switch to longer-term plans.
 Enhanced Service Bundles: Create value-added bundles for internet and streaming services to reduce dissatisfaction.
 Proactive Onboarding: Engage new customers early through personalized onboarding and support programs.
 Flexible Payment Options: Introduce modern and flexible payment methods to address dissatisfaction among electronic check users.
-Technologies Used
+
+## Technologies Used
 Python for data preprocessing and analysis.
 Tableau for creating visualizations and dashboards.
 Pandas, Matplotlib, Seaborn for EDA.
