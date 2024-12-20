@@ -3,7 +3,7 @@
 ** Project Overview ** 
 This project analyzes customer churn data for a telecom company to identify key factors contributing to churn and provides actionable recommendations to improve retention. Using exploratory data analysis (EDA) techniques and visualizations, the project highlights trends and customer behaviors associated with higher churn rates.
 
-## Key Findings
+** Key Findings **
 Demographics: Senior citizens exhibit a significantly higher churn rate (42%).
 Contract Types: Month-to-month contracts have the highest churn rate (43%) compared to one-year (11%) and two-year contracts (3%).
 Service Usage: Fiber-optic internet and streaming services correlate with elevated churn rates.
