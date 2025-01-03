@@ -54,7 +54,6 @@ Customer churn is a critical concern for telecom providers, as retaining custome
 - **Libraries**: 
   - Data Manipulation: Pandas, NumPy
   - Visualization: Matplotlib, Seaborn
-  - Machine Learning: Scikit-learn
 - **Environment**: Jupyter Notebook
 
 ---
